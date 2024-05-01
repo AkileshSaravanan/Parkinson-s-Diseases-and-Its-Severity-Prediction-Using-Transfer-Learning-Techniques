@@ -1,4 +1,4 @@
-# Parkinson-s-Diseases-and-Its-Severity-Prediction-Using-Transfer-Learning-Techniques
+# Parkinson's Diseases and Its Severity Prediction Using Transfer Learning Techniques
 
 # AUTHOR = AKILESH S,
 
